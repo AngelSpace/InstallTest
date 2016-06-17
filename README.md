@@ -1,2 +1,1 @@
-# InstallTest
-install test
+#InstallTest
