@@ -36,6 +36,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>pioffice_dist</string>
+				<key>version-code</key>
+				<string>1</string>
 			</dict>
 		</dict>
 	</array>
