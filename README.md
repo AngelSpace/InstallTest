@@ -1,3 +1,3 @@
 #InstallTest
-test
+test2
 
